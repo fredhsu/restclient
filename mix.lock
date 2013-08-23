@@ -1,0 +1,3 @@
+[ "httpotion": {:git, "git://github.com/myfreeweb/httpotion.git", "bc4f83ed0e433db3e1f7dbfb6377210990a35635", []},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "866b0ff5aca229f1ef53653eabc8ed1720c13cd6", []},
+  "json": {:git, "git://github.com/cblage/elixir-json.git", "f8f326639e98c8732641778aebe2afedebc37d62", []} ]
