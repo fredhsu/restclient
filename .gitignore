@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 /ebin
 /deps
 erl_crash.dump
 *.ez
+=======
+.eunit
+deps
+*.o
+*.beam
+*.plt
+>>>>>>> 260d5491e2539ed813d0461578fb87b2249345f6
